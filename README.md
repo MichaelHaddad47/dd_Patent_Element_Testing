@@ -7,6 +7,7 @@
 - [Description](#desc)
 - [Versions](#vers)
 - [Usage Guide](#inst)
+  * [Requirements](#req)
   * [Installation](#inst1)
   * [Patent Demonstration](#demo)
 - [Additional Information](#info)
@@ -32,11 +33,12 @@ Explore the evolution of the tool: [Archived Versions](https://github.com/Michae
 
 <a name="inst"></a>
 ## Usage Guide
-<a name="inst1"></a>
+<a name="req"></a>
 ### Requirements
 - Python 3.12.1+
 - Tkinter library (usually included with Python)
 
+<a name="inst1"></a>
 ### Installation
 Clone the repository into your machine.  
 <br>Head to the directory containing the repository:
