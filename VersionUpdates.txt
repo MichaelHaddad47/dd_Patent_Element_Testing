@@ -1,0 +1,16 @@
+Version 1.0
+- Initial Release
+
+Version 1.1
+- Optimised search for patent by looking through first 6 lines of XML files
+- Added Colors to user input / command output
+- Added error handling (eg: enforcing patent number entry)
+
+Version 2.0
+- GUI implementation was Added
+
+Version 2.1
+- Produced 2 windows, allowing patent comparaison
+- Added functionality of allowing user to select folder before selecting file
+- Creation of pkl file to incredibly speed up patent searching (pickle module)
+- Added comments to make code clearer
