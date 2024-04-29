@@ -56,6 +56,7 @@ Note: you may have to type <code>python3</code> instead
 - [Patents.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/Patents.txt) was created with the following: https://www.wipo.int/standards/en/st96/v7-1/annex-iii/index.html
 - [TestResults.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/TestResults.txt) covers the speed improvement with every update (visit [Archived Versions](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/tree/main/Archived%20Versions)).
 - [VersionUpdates.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/VersionUpdates.txt) describes briefly the new updates with every new version published.
+<br><br>
 - [Sample.zip](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/Sample.zip) ONLY covers 6 patents for privacy reasons. [Contact](#cont) down below to recieve the full list of files.
 
 <a name="cont"></a>
