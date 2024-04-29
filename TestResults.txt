@@ -1,0 +1,35 @@
+ALL TEST RESULTS CAN BE FOUND BELOW
+Summary : 
+Oldest Version         vs Newest Version
+UserExperience(1.0).py vs UserExperience(2.0+).py
+Improvement ~ 100% Time Reduction
+
+
+**All Test Results**
+
+*Time to find LAST patent in CA-WEEKLY-BFT-UPDATE-FROM-20240311-TO-20240317-ON-20240318 (# of files)*
+Exact patent document used: 3232032
+UserExperience(1.0).py : 378.15 seconds
+UserExperience(1.1).py : 233.28 seconds
+UserExperience(1.1).py : 30.57 seconds
+UserExperience(1.1).py : 28.91 seconds
+UserExperience(2.0+).py : Immediate (0 sec)
+
+
+*Time to find FIRST patent in CA-WEEKLY-BFT-UPDATE-FROM-20240311-TO-20240317-ON-20240318 (# of files)*
+Exact patent document used: 916306
+UserExperience(1.0).py : 0.07 seconds
+UserExperience(1.0).py : 0.07 seconds
+UserExperience(1.1).py : 0.07 seconds
+UserExperience(1.1).py : 0.07 seconds
+UserExperience(2.0+).py : Immediate (0 sec)
+
+
+*Time to find near the MIDDLE patent in CA-WEEKLY-BFT-UPDATE-FROM-20240311-TO-20240317-ON-20240318 (# of files)*
+Exact patent document used: 3063000
+UserExperience(1.0).py : 119.33 seconds
+UserExperience(1.0).py : 88.09 seconds
+UserExperience(1.1).py : 50.61 seconds
+UserExperience(1.1).py : 3.30 seconds
+UserExperience(1.1).py : 4.03 seconds
+UserExperience(2.0+).py : Immediate (0 sec)
