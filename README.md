@@ -1,7 +1,7 @@
 # dd_Patent_Element_Testing
 
 #### Most recent version of product:
-> ### 🌟 [**UserExperience(2.1)**](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/Python%20Scripts/UserExperience(2.1).py) 🌟
+> ### 🌟 [**UserExperience(2.1)**](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/Python%20Scripts/UserExperience(2.1).py) 🌟
 
 #### Table of Contents 
 - [Description](#desc)
@@ -26,7 +26,7 @@ It allows users to :
 
 <a name="vers"></a>
 ## Versions
-Explore the evolution of the tool: [Archived Versions](https://github.com/cipo-research/dd_Patent_Element_Testing/tree/main/Archived%20Versions).
+Explore the evolution of the tool: [Archived Versions](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/tree/main/Archived%20Versions).
 - **Terminal-based**: Versions 1.0 & 1.1
 - **GUI-based**: Versions 2.0+
 
@@ -53,12 +53,10 @@ Note: you may have to type <code>python3</code> instead
 
 <a name="info"></a>
 ## Additional Information
-- Total Estimated Time for production: [WorkTime](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/WorkTime.md) <br><br>
-
-- [Patents.txt](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/Patents.txt) was created with the following: https://www.wipo.int/standards/en/st96/v7-1/annex-iii/index.html
-- [TestResults.txt](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/TestResults.txt) covers the speed improvement with every update (visit [Archived Versions](https://github.com/cipo-research/dd_Patent_Element_Testing/tree/main/Archived%20Versions)).
-- [VersionUpdates.txt](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/VersionUpdates.txt) describes briefly the new updates with every new version published.
-- [Sample.zip](https://github.com/cipo-research/dd_Patent_Element_Testing/blob/main/Sample.zip) ONLY covers 6 patents for privacy reasons. [Contact](#cont) down below to recieve the full list of files.
+- [Patents.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/Patents.txt) was created with the following: https://www.wipo.int/standards/en/st96/v7-1/annex-iii/index.html
+- [TestResults.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/TestResults.txt) covers the speed improvement with every update (visit [Archived Versions](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/tree/main/Archived%20Versions)).
+- [VersionUpdates.txt](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/VersionUpdates.txt) describes briefly the new updates with every new version published.
+- [Sample.zip](https://github.com/MichaelHaddad47/dd_Patent_Element_Testing/blob/main/Sample.zip) ONLY covers 6 patents for privacy reasons. [Contact](#cont) down below to recieve the full list of files.
 
 <a name="cont"></a>
 ## Contact
